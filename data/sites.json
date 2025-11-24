@@ -1,5 +1,5 @@
 {
-    "权威域名": {
+    "官方批": {
         "icon": "",
         "data": [
             {
@@ -52,7 +52,7 @@
             }
         ]
     },
-    "网媒导航": {
+    "第壹批": {
         "icon": "",
         "data": [
             {
@@ -105,7 +105,219 @@
             }
         ]
     },
-    "常用推荐": {
+    "第贰批": {
+        "icon": "",
+        "data": [
+            {
+                "name": "店铺(平台代营)",
+                "icon": "./assets/icon.ico",
+                "url": "https://G.WenTianPlay.com/",
+                "describe": "文天玩WenTian Play店铺―—(平台代营)"
+            },
+            {
+                "name": "邮箱联系(QQ)",
+                "icon": "https://mail.qq.com/favicon.ico",
+                "url": "mailto:wentianplay@qq.com",
+                "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
+                "name": "邮箱联系(163网易)",
+                "icon": "https://mail.163.com/favicon.ico",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
+            },
+            {
+                "name": "邮箱联系(foxmail)",
+                "icon": "https://www.foxmail.com/favicon.ico",
+                "url": "mailto:wentianplay@foxmail.com",
+                "describe": "苏天彬(苏文飞)-foxmail邮箱"
+            },
+            {
+                "name": "邮箱联系(Outlook)",
+                "icon": "https://www.outlook.com/owa/favicon.ico",
+                "url": "mailto:wentianplay@outlook.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
+            },
+            {
+                "name": "邮箱联系(Gmail)",
+                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Gmail邮箱"
+            },
+            {
+                "name": "KOOK-天彬",
+                "icon": "https://m.kookapp.cn/favicon.ico",
+                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
+                "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
+            },
+            {
+                "name": "Discord-天彬",
+                "icon": "https://discord.do/favicon.ico",
+                "url": "https://discord.gg/CwJqM27Nb7",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
+            }
+        ]
+    },
+    "第叁批": {
+        "icon": "",
+        "data": [
+            {
+                "name": "店铺(平台代营)",
+                "icon": "./assets/icon.ico",
+                "url": "https://G.WenTianPlay.com/",
+                "describe": "文天玩WenTian Play店铺―—(平台代营)"
+            },
+            {
+                "name": "邮箱联系(QQ)",
+                "icon": "https://mail.qq.com/favicon.ico",
+                "url": "mailto:wentianplay@qq.com",
+                "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
+                "name": "邮箱联系(163网易)",
+                "icon": "https://mail.163.com/favicon.ico",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
+            },
+            {
+                "name": "邮箱联系(foxmail)",
+                "icon": "https://www.foxmail.com/favicon.ico",
+                "url": "mailto:wentianplay@foxmail.com",
+                "describe": "苏天彬(苏文飞)-foxmail邮箱"
+            },
+            {
+                "name": "邮箱联系(Outlook)",
+                "icon": "https://www.outlook.com/owa/favicon.ico",
+                "url": "mailto:wentianplay@outlook.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
+            },
+            {
+                "name": "邮箱联系(Gmail)",
+                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Gmail邮箱"
+            },
+            {
+                "name": "KOOK-天彬",
+                "icon": "https://m.kookapp.cn/favicon.ico",
+                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
+                "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
+            },
+            {
+                "name": "Discord-天彬",
+                "icon": "https://discord.do/favicon.ico",
+                "url": "https://discord.gg/CwJqM27Nb7",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
+            }
+        ]
+    },
+    "第肆批": {
+        "icon": "",
+        "data": [
+            {
+                "name": "店铺(平台代营)",
+                "icon": "./assets/icon.ico",
+                "url": "https://G.WenTianPlay.com/",
+                "describe": "文天玩WenTian Play店铺―—(平台代营)"
+            },
+            {
+                "name": "邮箱联系(QQ)",
+                "icon": "https://mail.qq.com/favicon.ico",
+                "url": "mailto:wentianplay@qq.com",
+                "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
+                "name": "邮箱联系(163网易)",
+                "icon": "https://mail.163.com/favicon.ico",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
+            },
+            {
+                "name": "邮箱联系(foxmail)",
+                "icon": "https://www.foxmail.com/favicon.ico",
+                "url": "mailto:wentianplay@foxmail.com",
+                "describe": "苏天彬(苏文飞)-foxmail邮箱"
+            },
+            {
+                "name": "邮箱联系(Outlook)",
+                "icon": "https://www.outlook.com/owa/favicon.ico",
+                "url": "mailto:wentianplay@outlook.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
+            },
+            {
+                "name": "邮箱联系(Gmail)",
+                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Gmail邮箱"
+            },
+            {
+                "name": "KOOK-天彬",
+                "icon": "https://m.kookapp.cn/favicon.ico",
+                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
+                "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
+            },
+            {
+                "name": "Discord-天彬",
+                "icon": "https://discord.do/favicon.ico",
+                "url": "https://discord.gg/CwJqM27Nb7",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
+            }
+        ]
+    },
+    "第伍批": {
+        "icon": "",
+        "data": [
+            {
+                "name": "店铺(平台代营)",
+                "icon": "./assets/icon.ico",
+                "url": "https://G.WenTianPlay.com/",
+                "describe": "文天玩WenTian Play店铺―—(平台代营)"
+            },
+            {
+                "name": "邮箱联系(QQ)",
+                "icon": "https://mail.qq.com/favicon.ico",
+                "url": "mailto:wentianplay@qq.com",
+                "describe": "苏天彬(苏文飞)-QQ邮箱"
+            },
+            {
+                "name": "邮箱联系(163网易)",
+                "icon": "https://mail.163.com/favicon.ico",
+                "url": "mailto:wentianplay@163.com",
+                "describe": "苏天彬(苏文飞)-163网易邮箱"
+            },
+            {
+                "name": "邮箱联系(foxmail)",
+                "icon": "https://www.foxmail.com/favicon.ico",
+                "url": "mailto:wentianplay@foxmail.com",
+                "describe": "苏天彬(苏文飞)-foxmail邮箱"
+            },
+            {
+                "name": "邮箱联系(Outlook)",
+                "icon": "https://www.outlook.com/owa/favicon.ico",
+                "url": "mailto:wentianplay@outlook.com",
+                "describe": "苏天彬(苏文飞)-Outlook邮箱"
+            },
+            {
+                "name": "邮箱联系(Gmail)",
+                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+                "url": "mailto:wentianplay@Gmail.com",
+                "describe": "苏天彬(苏文飞)-Gmail邮箱"
+            },
+            {
+                "name": "KOOK-天彬",
+                "icon": "https://m.kookapp.cn/favicon.ico",
+                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
+                "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
+            },
+            {
+                "name": "Discord-天彬",
+                "icon": "https://discord.do/favicon.ico",
+                "url": "https://discord.gg/CwJqM27Nb7",
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
+            }
+        ]
+    },
+    "第陆批": {
         "icon": "",
         "data": [
             {
