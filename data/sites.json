@@ -320,114 +320,174 @@
     "第陆批": {
         "icon": "",
         "data": [
-            {
-                "name": "哔哩哔哩",
-                "icon": "https://www.bilibili.com/favicon.ico",
-                "url": "https://www.bilibili.com/",
-                "describe": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
-            },
-            {
-                "name": "YouTube",
-                "icon": "https://www.youtube.com/favicon.ico",
-                "url": "https://www.youtube.com/",
-                "describe": "Stay updated with the latest news and trends on …"
-            },
-            {
-                "name": "爱奇艺",
-                "icon": "https://www.iqiyi.com/favicon.ico",
-                "url": "https://www.iqiyi.com/",
-                "describe": "爱奇艺-在线视频网站-海量正版高清视频在线观看"
-            },
-            {
-                "name": "腾讯视频",
-                "icon": "https://v.qq.com/favicon.ico",
-                "url": "https://v.qq.com/",
-                "describe": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看"
-            },
-            {
-                "name": "优酷",
-                "icon": "https://www.youku.com/favicon.ico",
-                "url": "https://www.youku.com/",
-                "describe": "优酷 - 为好内容全力以赴 - 海量正版高清视频在线观看"
-            },
-            {
-                "name": "聚名网",
-                "icon": "https://ossjm.oss-accelerate.aliyuncs.com/pub/img/juming_ico.ico",
-                "url": "https://www.juming.com/",
-                "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"
-            },
-            {
-                "name": "Minecraft",
-                "icon": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico",
-                "url": "https://www.minecraft.net",
-                "describe": "在 Minecraft 官方网站上探索新的游戏冒险、配件和商品。在此处购买并下载游戏，或查看网站以获取最新消息。"                              
-            },
-            {
-                "name": "PCL II",
-                "icon": "https://pcl2.aoe.top/favicon.ico",
-                "url": "https://pcl2.aoe.top/",
-                "describe": "PCL2（Plain Craft Launcher 2）是由龙腾猫跃开发的免费开源 Minecraft 启动器。支持 Forge、Fabric、模组管理、自动下载、自定义主题等功能。立即下载体验最好用的我 …"                              
-            },
-            {
-                "name": "PCL 社区版",
-                "icon": "https://pclce-web.demo.fis.ink/favicon.ico",
-                "url": "https://pclce-web.demo.fis.ink/",
-                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                              
-            },
-            {
-                "name": "Google",
-                "icon": "https://www.google.com/favicon.ico",
-                "url": "https://www.google.com/",
-                "describe": "全球最大的学习分享平台"
-            },
-            {
-                "name": "Github",
-                "icon": "https://github.com/favicon.ico",
-                "url": "https://www.github.com/",
-                "describe": "基于web的版本控制和协作平台"           
-            },
-            {
-                "name": "Gitee",
-                "icon": "https://gitee.com/favicon.ico",
-                "url": "https://gitee.com/",
-                "describe": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。"
-            },
-            {
-                "name": "VS Code",
-                "icon": "https://code.visualstudio.com/favicon.ico",
-                "url": "https://code.visualstudio.com/",
-                "describe": "Visual Studio Code免费且基于开源构建。集成Git、调试和扩展。"                              
-            },
-            {
-                "name": "Java",
-                "icon": "https://www.java.com/favicon.ico",
-                "url": "https://www.java.com/",
-                "describe": "Java Oracle Java 是第一大编程语言和开发平台。 它有助于企业降低成本、缩短开发周期、推动创新以及改善应用程序服务。 Java 现在仍是企业和开发人员的首选开发平台。"
-            },
-            {
-                "name": "标准 C++",
-                "icon": "https://isocpp.org/favicon.ico",
-                "url": "https://isocpp.org/",
-                "describe": "关于标准C++的新闻、状态与讨论 关注所有帖子 所有帖子 RSS 标准C++在网络上的家园——新闻、状态与讨论......"       
-            },
-            {
-                "name": "Python",
-                "icon": "https://Python.org/favicon.ico",
-                "url": "https://www.python.org/",
-                "describe": "Python 是一种功能强大且易于学习的语言，可帮助您快速工作并更有效地集成系统。下载最新版本，阅读……"  
-            },
-            {
-                "name": "PyCharm",
-                "icon": "https://www.jetbrains.com/favicon.ico",
-                "url": "https://www.jetbrains.com/",
-                "describe": "专为 Web、数据和 AI/ML 专业人士打造。 通过 AI 增强的 IDE 体验进行超级加速。" 
-            },
-            {
-                "name": "CSDN",
-                "icon": "https://www.csdn.net/favicon.ico",
-                "url": "https://www.csdn.net/",
-                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."                              
-            }
-        ]
+  {
+    "name": "中国信息安全论坛",
+    "icon": "http://www.chinafirst.org.cn/favicon.ico",
+    "url": "http://www.chinafirst.org.cn/",
+    "describe": "信息安全技术交流论坛"
+  },
+  {
+    "name": "中国新青年在线论坛",
+    "icon": "http://www.zikao100.net/favicon.ico",
+    "url": "http://www.zikao100.net/newyouth/bbs/",
+    "describe": "新青年技术交流论坛"
+  },
+  {
+    "name": "西祠安全论坛",
+    "icon": "http://www.xici.net/favicon.ico",
+    "url": "http://www.xici.net/group.asp?id=108007",
+    "describe": "西祠胡同安全技术论坛"
+  },
+  {
+    "name": "网嗅技术论坛",
+    "icon": "http://www.netsill.com/favicon.ico",
+    "url": "http://www.netsill.com/bbs/",
+    "describe": "网络技术交流论坛"
+  },
+  {
+    "name": "网络利剑论坛",
+    "icon": "http://202.102.249.64/favicon.ico",
+    "url": "http://202.102.249.64:8080/",
+    "describe": "网络攻防技术论坛"
+  },
+  {
+    "name": "芝麻黑客",
+    "icon": "http://www.zmhacker.com/favicon.ico",
+    "url": "http://www.zmhacker.com/",
+    "describe": "黑客技术网站"
+  },
+  {
+    "name": "黑客X元素",
+    "icon": "http://www.xysky.net/favicon.ico",
+    "url": "http://www.xysky.net/",
+    "describe": "黑客技术元素平台"
+  },
+  {
+    "name": "黑客★城",
+    "icon": "http://www.hack3.com/favicon.ico",
+    "url": "http://www.hack3.com/",
+    "describe": "黑客技术城市社区"
+  },
+  {
+    "name": "黑客同志",
+    "icon": "http://vrgames.myrice.com/favicon.ico",
+    "url": "http://vrgames.myrice.com/",
+    "describe": "黑客技术交流平台"
+  },
+  {
+    "name": "想飞社区",
+    "icon": "http://www.netbiao.com/favicon.ico",
+    "url": "http://www.netbiao.com/",
+    "describe": "网络技术社区"
+  },
+  {
+    "name": "OICQ黑客世界及防范",
+    "icon": "http://www.oicqhacker.nethome.to/favicon.ico",
+    "url": "http://www.oicqhacker.nethome.to/",
+    "describe": "QQ安全与防范技术网站"
+  },
+  {
+    "name": "黑客梦工场",
+    "icon": "http://hacker-dream.51.net/favicon.ico",
+    "url": "http://hacker-dream.51.net/",
+    "describe": "黑客技术学习平台"
+  },
+  {
+    "name": "黑客禁区",
+    "icon": "http://member.netease.com/favicon.ico",
+    "url": "http://member.netease.com/~aqwang/hkjq.htm",
+    "describe": "黑客技术禁区网站"
+  },
+  {
+    "name": "东北狼黑客基地",
+    "icon": "http://dbwolf.51.net/favicon.ico",
+    "url": "http://dbwolf.51.net/",
+    "describe": "东北地区黑客技术基地"
+  },
+  {
+    "name": "九州网络",
+    "icon": "http://www.hacksky.net/favicon.ico",
+    "url": "http://www.hacksky.net/",
+    "describe": "网络技术平台"
+  },
+  {
+    "name": "黑客俱乐部",
+    "icon": "http://hackerclub.iscool.net/favicon.ico",
+    "url": "http://hackerclub.iscool.net/",
+    "describe": "黑客技术俱乐部"
+  },
+  {
+    "name": "终极网络",
+    "icon": "http://www.ztwl.net/favicon.ico",
+    "url": "http://www.ztwl.net/",
+    "describe": "网络技术平台"
+  },
+  {
+    "name": "黑客技术文库",
+    "icon": "http://htnb.sosoo.net/favicon.ico",
+    "url": "http://htnb.sosoo.net/",
+    "describe": "黑客技术文档库"
+  },
+  {
+    "name": "傲剑山庄黑客区",
+    "icon": "http://taojf.8d8d.net/favicon.ico",
+    "url": "http://taojf.8d8d.net/",
+    "describe": "黑客技术交流区"
+  },
+  {
+    "name": "网吧终结者",
+    "icon": "http://web.cy07.com/favicon.ico",
+    "url": "http://web.cy07.com/",
+    "describe": "网吧管理技术网站"
+  },
+  {
+    "name": "小雨网络",
+    "icon": "http://www.haiyun.net/favicon.ico",
+    "url": "http://www.haiyun.net/",
+    "describe": "网络技术平台"
+  },
+  {
+    "name": "密码战士",
+    "icon": "http://mmzs.yeah.net/favicon.ico",
+    "url": "http://mmzs.yeah.net/",
+    "describe": "密码技术研究网站"
+  },
+  {
+    "name": "赢政天下",
+    "icon": "http://soft.winzheng.com/favicon.ico",
+    "url": "http://soft.winzheng.com/",
+    "describe": "软件下载与技术社区"
+  },
+  {
+    "name": "黑暗力量",
+    "icon": "http://www.dark2s.org/favicon.ico",
+    "url": "http://www.dark2s.org/",
+    "describe": "黑客技术组织"
+  },
+  {
+    "name": "中国奇客联盟",
+    "icon": "http://www.qiker.com/favicon.ico",
+    "url": "http://www.qiker.com/",
+    "describe": "奇客技术组织"
+  },
+  {
+    "name": "成长的痕迹",
+    "icon": "http://www.lfpcb.com/favicon.ico",
+    "url": "http://www.lfpcb.com/lcdw/",
+    "describe": "技术成长记录网站"
+  },
+  {
+    "name": "2黑客",
+    "icon": "http://www.2hackers.org/favicon.ico",
+    "url": "http://www.2hackers.org",
+    "describe": "黑客技术网站"
+  },
+  {
+    "name": "中国新客联盟",
+    "icon": "http://www.xker.com/favicon.ico",
+    "url": "http://www.xker.com/",
+    "describe": "新手黑客技术社区"
+  }
+]
     }
 }
