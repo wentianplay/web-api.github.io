@@ -45,65 +45,197 @@
                 "describe": "文天玩WenTianPlay边缘站-文天玩网络科技有限公司"
             },
             {
-                "name": "《天彬》官方网站",
-                "icon": "https://www.tianbin.net/icon.ico",
-                "url": "https://www.tianbin.net",
-                "describe": "《天彬TianBIN》"
+                "name": "文天玩导航",
+                "icon": "./assets/icon.ico",
+                "url": "https://www.wentianplay.net/web/",
+                "describe": "文天玩导航"
             }
         ]
     },
     "第壹批": {
         "icon": "",
         "data": [
-            {
-                "name": "店铺(平台代营)",
-                "icon": "./assets/icon.ico",
-                "url": "https://G.WenTianPlay.com/",
-                "describe": "文天玩WenTian Play店铺―—(平台代营)"
-            },
-            {
-                "name": "邮箱联系(QQ)",
-                "icon": "https://mail.qq.com/favicon.ico",
-                "url": "mailto:wentianplay@qq.com",
-                "describe": "苏天彬(苏文飞)-QQ邮箱"
-            },
-            {
-                "name": "邮箱联系(163网易)",
-                "icon": "https://mail.163.com/favicon.ico",
-                "url": "mailto:wentianplay@163.com",
-                "describe": "苏天彬(苏文飞)-163网易邮箱"
-            },
-            {
-                "name": "邮箱联系(foxmail)",
-                "icon": "https://www.foxmail.com/favicon.ico",
-                "url": "mailto:wentianplay@foxmail.com",
-                "describe": "苏天彬(苏文飞)-foxmail邮箱"
-            },
-            {
-                "name": "邮箱联系(Outlook)",
-                "icon": "https://www.outlook.com/owa/favicon.ico",
-                "url": "mailto:wentianplay@outlook.com",
-                "describe": "苏天彬(苏文飞)-Outlook邮箱"
-            },
-            {
-                "name": "邮箱联系(Gmail)",
-                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
-                "url": "mailto:wentianplay@Gmail.com",
-                "describe": "苏天彬(苏文飞)-Gmail邮箱"
-            },
-            {
-                "name": "KOOK-天彬",
-                "icon": "https://m.kookapp.cn/favicon.ico",
-                "url": "https://www.kookapp.cn/app/invite/6GcFWj",
-                "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
-            },
-            {
-                "name": "Discord-天彬",
-                "icon": "https://discord.do/favicon.ico",
-                "url": "https://discord.gg/CwJqM27Nb7",
-                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
-            }
-        ]
+  {
+    "name": "黑客基地",
+    "icon": "http://www.hackbase.com/favicon.ico",
+    "url": "http://www.hackbase.com/",
+    "describe": "由IT精英和白帽黑客共同发起创立，致力于打造高端IT与网络安全的技术交流平台"
+  },
+  {
+    "name": "红黑联盟论坛",
+    "icon": "http://bbs.2cto.com/favicon.ico",
+    "url": "http://bbs.2cto.com",
+    "describe": "网络安全技术交流论坛"
+  },
+  {
+    "name": "T00ls",
+    "icon": "http://www.t00ls.net/favicon.ico",
+    "url": "http://www.t00ls.net",
+    "describe": "大牛聚集地，很低调，不开放注册，需要邀请注册，入侵渗透方面大牛很多"
+  },
+  {
+    "name": "看雪安全论坛",
+    "icon": "http://bbs.pediy.com/favicon.ico",
+    "url": "http://bbs.pediy.com",
+    "describe": "一个网络安全的开发者社区"
+  },
+  {
+    "name": "安全客",
+    "icon": "http://www.anquanke.com/favicon.ico",
+    "url": "http://www.anquanke.com",
+    "describe": "一个提供网络安全资讯的网站"
+  },
+  {
+    "name": "黑客内参",
+    "icon": "http://www.hackernc.com/favicon.ico",
+    "url": "http://www.hackernc.com",
+    "describe": "一个黑客技术论坛"
+  },
+  {
+    "name": "先知社区",
+    "icon": "http://xz.aliyun.com/favicon.ico",
+    "url": "http://xz.aliyun.com",
+    "describe": "阿里云安全社区"
+  },
+  {
+    "name": "黑客之门",
+    "icon": "http://www.hackerdoor.com/favicon.ico",
+    "url": "http://www.hackerdoor.com",
+    "describe": "中国黑客网址导航"
+  },
+  {
+    "name": "The Hacker News",
+    "icon": "http://thehackernews.com/favicon.ico",
+    "url": "http://thehackernews.com",
+    "describe": "一个国外的黑客新闻网站"
+  },
+  {
+    "name": "Threatpost",
+    "icon": "http://threatpost.com/favicon.ico",
+    "url": "http://threatpost.com",
+    "describe": "这个国外网站涵盖所有最新的威胁和漏洞"
+  },
+  {
+    "name": "Infosecurity Magazine",
+    "icon": "http://www.infosecurity-magazine.com/favicon.ico",
+    "url": "http://www.infosecurity-magazine.com",
+    "describe": "这个国外网站涵盖所有最新的信息安全问题"
+  },
+  {
+    "name": "黑客帝国",
+    "icon": "http://www.darkup.com/favicon.ico",
+    "url": "http://www.darkup.com/",
+    "describe": "黑客技术网站"
+  },
+  {
+    "name": "中国黑客联盟",
+    "icon": "http://www.chinahacker.com/favicon.ico",
+    "url": "http://www.chinahacker.com",
+    "describe": "中国黑客技术社区"
+  },
+  {
+    "name": "起点黑客网络",
+    "icon": "http://www.qdhack.com/favicon.ico",
+    "url": "http://www.qdhack.com/",
+    "describe": "黑客技术学习平台"
+  },
+  {
+    "name": "黑客边缘",
+    "icon": "http://www.hkby.com/favicon.ico",
+    "url": "http://www.hkby.com",
+    "describe": "黑客技术交流网站"
+  },
+  {
+    "name": "火狐技术联盟",
+    "icon": "http://www.wrsky.com/favicon.ico",
+    "url": "http://www.wrsky.com/",
+    "describe": "技术交流社区"
+  },
+  {
+    "name": "黑色反击",
+    "icon": "http://www.hf110.com/favicon.ico",
+    "url": "http://www.hf110.com",
+    "describe": "网络安全技术网站"
+  },
+  {
+    "name": "暗组技术论坛",
+    "icon": "http://www.darkst.com/favicon.ico",
+    "url": "http://www.darkst.com",
+    "describe": "技术交流论坛"
+  },
+  {
+    "name": "黑客X档案论坛",
+    "icon": "http://bbs.hackerxfiles.net/favicon.ico",
+    "url": "http://bbs.hackerxfiles.net",
+    "describe": "黑客技术论坛"
+  },
+  {
+    "name": "非安全",
+    "icon": "http://www.nohack.com/favicon.ico",
+    "url": "http://www.nohack.com",
+    "describe": "网络安全资讯网站"
+  },
+  {
+    "name": "黑鹰论坛",
+    "icon": "http://dvd.3800hk.com/favicon.ico",
+    "url": "http://dvd.3800hk.com",
+    "describe": "技术交流论坛"
+  },
+  {
+    "name": "维客网络",
+    "icon": "http://221.214.141.79/favicon.ico",
+    "url": "http://221.214.141.79/test/zy/",
+    "describe": "网络技术网站"
+  },
+  {
+    "name": "网信安盟",
+    "icon": "http://www.nsglobal.net/favicon.ico",
+    "url": "http://www.nsglobal.net",
+    "describe": "网络安全联盟"
+  },
+  {
+    "name": "贺州黑客联盟",
+    "icon": "http://www.shockhack.net/favicon.ico",
+    "url": "http://www.shockhack.net/hzhacker/1/",
+    "describe": "地方性黑客技术组织"
+  },
+  {
+    "name": "中国网客",
+    "icon": "http://www.chinahack.cn/favicon.ico",
+    "url": "http://www.chinahack.cn/",
+    "describe": "中国网客技术社区"
+  },
+  {
+    "name": "中国红客联盟",
+    "icon": "http://www.cnhonker.com/favicon.ico",
+    "url": "http://www.cnhonker.com/",
+    "describe": "中国红客技术组织"
+  },
+  {
+    "name": "中国黑客同盟",
+    "icon": "http://www.hackertop.com/favicon.ico",
+    "url": "http://www.hackertop.com/",
+    "describe": "黑客技术交流平台"
+  },
+  {
+    "name": "华夏黑客同盟",
+    "icon": "http://www.77119.com/favicon.ico",
+    "url": "http://www.77119.com/",
+    "describe": "黑客技术社区"
+  },
+  {
+    "name": "黑客部",
+    "icon": "http://www.hacker110.com/favicon.ico",
+    "url": "http://www.hacker110.com",
+    "describe": "黑客技术网站"
+  },
+  {
+    "name": "黑客领域",
+    "icon": "http://www.hackfield.com/favicon.ico",
+    "url": "http://www.hackfield.com/",
+    "describe": "黑客技术交流平台"
+  }
+]
     },
     "第贰批": {
         "icon": "",
